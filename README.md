@@ -6,7 +6,7 @@ In addition to the 40 day cancellation window stipulated by the Terms and Condit
 
 On April 9, 2024 these operations will cease and the value of EEUR is likely to deviate from reference prices.  
 
-**We strongly recommend EEUR to be swapped against USDC or other crypto assets before 09/04/2023:**  
+**We strongly recommend EEUR to be swapped against USDC or other crypto assets before 09/04/2024:**  
 [https://app.osmosis.zone/?from=EEUR&to=USDC](https://app.osmosis.zone/?from=EEUR&to=USDC)
 
 ## Timeline
