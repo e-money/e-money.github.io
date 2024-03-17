@@ -11,10 +11,10 @@ On April 9, 2024 these operations will cease and the value of EEUR is likely to 
 
 ## Timeline
 _09/01/2023_ [The stablecoin cancellation is announced](https://medium.com/e-money-com/eeur-stablecoin-unwind-cf945820fb3f).  
-_06/03/2023_ The 40 day cancellation window lapses persuant to the Terms and Conditions.  
+_06/03/2023_ The 40 business day cancellation window lapses persuant to the Terms and Conditions.  
 _07/03/2023_ EEUR buyback continues through market operations on Osmosis.  
 ...  
-_09/04/2024_ EEUR market operations cease.  
+_09/04/2024_ **EEUR market operations cease.**  
 
 ## Resources
 * Wallet: [https://app.e-money.com](https://app.e-money.com)
