@@ -17,11 +17,11 @@ _07/03/2023_ EEUR buyback continues through market operations on Osmosis.
 _09/04/2024_ **EEUR market operations cease.**  
 
 ## Resources
-* Wallet: [https://app.e-money.com](https://app.e-money.com)
+* Wallet: [https://ezstaking.app/emoney](https://ezstaking.app/emoney)
+* Wallet: [https://app.e-money.com](https://app.e-money.com) (defunct)
 * Explorer: [https://www.mintscan.io/emoney](https://www.mintscan.io/emoney) (defunct)
 * Explorer: [https://bigdipper.live/emoney](https://bigdipper.live/emoney) (defunct)
 * Explorer: [https://www.atomscan.com/emoney](https://www.atomscan.com/emoney)
-* Explorer: [https://ezstaking.app/emoney](https://ezstaking.app/emoney)
 
 ## Legal agreements
 * [EEUR Terms and Conditions](docs/e-Money%20-%20EUR%20Token%20Terms%20and%20Conditions.pdf)
