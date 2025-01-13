@@ -1,6 +1,6 @@
 # Important notice
 
-On January 9, 2023 e-Money A/S [announced the cancellation](https://medium.com/e-money-com/eeur-stablecoin-unwind-cf945820fb3f) of its stablecoins: EEUR, ECHF, EDKK, ESEK and ENOK. 
+On January 9, 2023 e-Money A/S [announced the cancellation](docs/e-Money%20-%20Unwind%20Announcement.pdf) of its stablecoins: EEUR, ECHF, EDKK, ESEK and ENOK. 
 
 In addition to the 40 day cancellation window stipulated by the Terms and Conditions, e-Money A/S has continued to offer buyback of EEUR through market operations.  
 
